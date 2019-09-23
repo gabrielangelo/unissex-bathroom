@@ -7,7 +7,7 @@ from unissex_bathroom import UnissexBathroom
 
 if __name__ == "__main__":
     args_choices = {
-        '1': {'num_people': 60, 'num_boxes': 1},
+        '1': {'num_people': 5, 'num_boxes': 1},
         '2': {'num_people': 150, 'num_boxes': 3},
         '3': {'num_people': 300, 'num_boxes': 5}
     }
